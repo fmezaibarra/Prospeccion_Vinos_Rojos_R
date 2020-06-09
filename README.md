@@ -3,7 +3,7 @@
 * Master en Ciencia de Datos.
 * Universitat Oberta of Catalunya.
 * Consultora: Mireia Calvo Gonzalez.
-* Fecha: Juni 9 de 2020
+* Fecha: Junio 9 de 2020
 
 # Autores:
 * Tania Gualli Culqui
