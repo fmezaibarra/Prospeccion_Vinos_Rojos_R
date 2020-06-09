@@ -17,7 +17,7 @@ El conjunto tiene una clase objetivo que indica el nivel de calidad del vino, cu
 # Contenido:  
  
 * tgualli_fmeza_Pr2.rmd: Archivo con código R Markdown.        
-* tgualli_fmeza_Pr2.pdf: Documento de la práctica de limpieza y análisis de datos.         
+* tgualli_fmeza_Pra2.pdf: Documento de la práctica de limpieza y análisis de datos.         
 * winequality-red.csv: Dataset en formato CSV
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
